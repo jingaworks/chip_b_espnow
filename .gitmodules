@@ -1,0 +1,3 @@
+[submodule "components/interchip_comm"]
+	path = components/interchip_comm
+	url = https://github.com/jingaworks/interchip_comm.git
